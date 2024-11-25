@@ -1,13 +1,13 @@
 {
     "type": "service_account",
-    "project_id": "bangkit-capstone-442321",
-    "private_key_id": "868d522631307e5d3a351dde45df0147ea86eb64",
-    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCJSjvcFB0jCPws\n0B88mBl+LZBWSCh3Gf0AR0trNQMlAg2Ro3W5MNlovpwZ3i8+sFkncUc5XPs0GfN9\nRziuEOKsTBvb7gYtPv/ej0YdmzFcfoCrnasz9jUKGkwW8YAXajCGlind22BHwBDL\n2vjUy20salBg9TJtWWFUkaCOuC5JQheQdqhJexoDyO6rPkU2FX2ELOm1FO4yxdTD\n4una3NfeRjuddeLa0bx6bc01r5ciRWPjWTzba2xxwhTxvmgtjYb2gVNHXTJW+lUH\nzYG0U20a8+IDRSdGCjMINOCgD4MhZxm4IW/vD9nCxw6Z6hlWWqwwDxmGACe3ThHO\nKsgIRXv5AgMBAAECggEABbuISVW7q7lV0kc0brLJKbgcVUX5DpQSuN7BOu5BPdva\nljC1mzB7e4CuAvSAk4UIi/mSaEZGJPRKcvo01yvUUy5wYVwMfPoq8++WlWjkBEEx\n/Th9rBNFPrE/aRvXZeLkuNHvWJiu6gAOk3yGtFf0LI0Z4xqJ6v/27PGRuzPclulw\nabRAl2mBj1KOGoGdCrUPTONRJZrGF0CN1brzfIGNPjraNJRR7enHqgs2YgCWKTIl\nDK4Q3bc/lctU/2H8K8raGNvfUhyxMrhY2AX50QE4Qr0nDieetaw3+QqR6sr1h9og\nTz3Rrhv6He+D55G7/HwrlWbt2Bcfg/FVUmkobqd4QQKBgQDBIeHr6fU84Igd/Fm9\nIg5KJh3U2ZFW/wH6b5qyVTl2h43kMJO1O/QdVSI/aCQJM1IRiJzqBJoFV653Vxp5\nqM0b9TBlnm2LgRXM4Y2myOp7dbW8l3wa6s/HnJu6EY6I7VgbnO09jDRvtv2hXySh\nbrrBsvZfG/c+FA5S60wTV7SRqQKBgQC1+uQJ6Sw+0fKFRqhT2OUZ1UcRZ0kOheN2\n884dGR3QZzkGmriANBr7uuSzz5spextWlKHkMJGSySnacDeMf7KhMp6y0X0qAERG\nQWVWRGtl7qQWnIIyW2wIy0vJ3H1Mc5x420AVxDpkrNIwRhPzpq+sOWlwXhA/FvAc\nFgs0H2Kp0QKBgQC77NZCkkK429pXIyfG645wBCre5F2SA0zPfS1P/bGOblRZCBOS\nNCZTLHXIsPLvqOpgeUgGRjgAntL6+NygKOp8G9bd6oy5RAAMfiUxdysCuwT934E5\nR+aqWu8E3PSOtDQZmlcWnoifc7XUAhpIotBCjntBDJtF4ooVkTNTVvIzEQKBgQCW\n1JcTe9b3Tm4TdufnbxscWUCpNRFBX0mT+yl3xqyGYjfKuIx5fjZrNJGAU29IZ0fW\ncCTqjDLsFZ2B9oakBedZYipVDfsOx9/O1z8VzGmzt6L7NsdW051sgIuViRG1PxGO\nvjKUl+rKLM+dwUeiKCLsvT0eLGiM0gc7UC4DCoxtMQKBgCzH098jcrtEjjvkHLV/\nxlvWCl9XQ5mub5Ap/nd5MT8d1xZcj6TPocZf8Y/POIf2STe5GhY1m3oS8ii9fH/A\n6slMU6XCx9fZTETtWoODQeaWVpEAFkc/fZa2u33lzY67z1jFQnnDz0KbJw8mB6Z0\noahBtOYOAzq8q22IcndqvaXN\n-----END PRIVATE KEY-----\n",
-    "client_email": "firebase-adminsdk-bp8um@bangkit-capstone-442321.iam.gserviceaccount.com",
-    "client_id": "103988876597480516735",
+    "project_id": "",
+    "private_key_id": "",
+    "private_key": "-----BEGIN PRIVATE KEY-----",
+    "client_email": "",
+    "client_id": "",
     "auth_uri": "https://accounts.google.com/o/oauth2/auth",
     "token_uri": "https://oauth2.googleapis.com/token",
     "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-bp8um%40bangkit-capstone-442321.iam.gserviceaccount.com",
+    "client_x509_cert_url": "",
     "universe_domain": "googleapis.com"
   }
